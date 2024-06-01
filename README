@@ -6,4 +6,4 @@ Fair blackjack game implementation / server.
 Build & Run
 -----------
     
-    dub build -b=release && ./blackjack
+    ./build.sh && ./blackjack
