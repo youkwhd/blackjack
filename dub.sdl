@@ -1,5 +1,6 @@
 name "blackjack"
-description "A minimal D application."
+targetType "executable"
+description "Blackjack 21 implementation."
 authors "youkwhd"
 copyright "Copyright © 2024, youkwhd"
 license "GPL-2.0-only"
