@@ -1,0 +1,5 @@
+name "blackjack"
+description "A minimal D application."
+authors "youkwhd"
+copyright "Copyright © 2024, youkwhd"
+license "GPL-2.0-only"
